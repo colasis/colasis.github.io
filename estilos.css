@@ -1,0 +1,32 @@
+p{
+    background: white; 
+    color: rgb(0, 0, 0); 
+    font-family: Calibri; 
+    font-size: 18px; 
+    font-weight: light; 
+}
+
+h1{
+    background: rgb(184, 255, 122);
+    font-size: 29px;
+}
+
+h2{
+    background: lightcoral;
+    color: rgb(0, 0, 0);
+    font-family: Sans-seriff;
+    font-size: 24px;
+    font-weight: light;
+}
+h3{
+    background: lightcoral;
+    color: rgb(0, 0, 0);
+    font-family: Sans-seriff;
+    font-size: 24px;
+    font-weight: bold;
+}
+header, nav, section¨{
+    border-width: 1px; 
+    border-style: solid; 
+    border-color: grey
+}
